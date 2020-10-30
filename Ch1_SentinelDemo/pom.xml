@@ -52,6 +52,7 @@
 			<artifactId>sentinel-core</artifactId>
 		</dependency>
 
+		<!--sentinel-transport,通过transport模块与控制台进行通讯-->
 		<dependency>
 			<groupId>com.alibaba.csp</groupId>
 			<artifactId>sentinel-transport-simple-http</artifactId>
