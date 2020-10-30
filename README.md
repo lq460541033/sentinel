@@ -8,7 +8,7 @@ write some code demo while learning Sentinel
    
 ###教程   
 ####1.下载可执行 jar 包
-    地址：https://github.com/alibaba/Sentinel/releases
+   [下载地址](https://github.com/alibaba/Sentinel/releases)
     
 ####2.引入 transport 依赖
     <dependency>
